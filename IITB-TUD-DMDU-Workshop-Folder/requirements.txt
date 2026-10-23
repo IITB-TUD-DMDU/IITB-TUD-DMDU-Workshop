@@ -1,0 +1,6 @@
+ema-workbench
+SALib
+matplotlib
+numpy
+pandas
+pysd
